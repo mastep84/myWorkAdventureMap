@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/myWorkAdventure\/garden.json"
+                 "value":"garden.json"
                 }],
          "type":"tilelayer",
          "visible":true,
