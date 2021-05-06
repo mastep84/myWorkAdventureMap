@@ -1,0 +1,20 @@
+{
+    "maps": [
+        {
+            "fileName": "office.json",
+            "height": 1088,
+            "width": 1472,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "garden.json",
+            "height": 1088,
+            "width": 1472,
+            "x": 0,
+            "y": -1120
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
