@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Floor1\/floor1.json"
+                 "value":"map_backup.json"
                 }],
          "type":"tilelayer",
          "visible":true,
