@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"garden.json"
+                 "value":"garden.json#startLayer"
                 }],
          "type":"tilelayer",
          "visible":true,
