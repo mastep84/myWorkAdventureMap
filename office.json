@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"garden.json#startLayer"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/mastep84.github.io\/myWorkAdventureMap\/garden.json#startLayer"
                 }],
          "type":"tilelayer",
          "visible":true,
